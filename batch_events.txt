@@ -1,0 +1,36 @@
+=== FILE OUTPUT ===
+Event: Design Patterns
+Details: Lecture Event ID: L001
+Title: Design Patterns
+Description: Advanced design patterns in Java
+Date: 2025-08-12
+Location: Room 101
+Capacity: 50
+
+Timestamp: 1754949845075
+==================
+
+=== FILE OUTPUT ===
+Event: AI Seminar
+Details: Seminar Event ID: S001
+Title: AI Seminar
+Description: Latest trends in AI
+Date: 2025-08-13
+Location: Auditorium
+Capacity: 100
+
+Timestamp: 1754949845077
+==================
+
+=== FILE OUTPUT ===
+Event: Coding Workshop
+Details: Workshop Event ID: W001
+Title: Coding Workshop
+Description: Hands-on coding session
+Date: 2025-08-14
+Location: Lab A
+Capacity: 25
+
+Timestamp: 1754949845194
+==================
+

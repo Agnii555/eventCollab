@@ -1,0 +1,36 @@
+=== FILE OUTPUT ===
+Event: Mobile App Development Workshop
+Details: Workshop Event ID: EVT006
+Title: Mobile App Development Workshop
+Description: Build mobile applications using React Native and modern development practices.
+Date: 2024-12-28
+Location: ISEC 201
+Capacity: 15
+
+Timestamp: 1754949845341
+==================
+
+=== FILE OUTPUT ===
+Event: Full-Stack Web Development Workshop
+Details: Workshop Event ID: EVT005
+Title: Full-Stack Web Development Workshop
+Description: Hands-on workshop covering frontend, backend, and database development with modern technologies.
+Date: 2024-12-25
+Location: ISEC 102
+Capacity: 20
+
+Timestamp: 1754949845344
+==================
+
+=== FILE OUTPUT ===
+Event: Cybersecurity Best Practices
+Details: Seminar Event ID: EVT004
+Title: Cybersecurity Best Practices
+Description: Learn about modern cybersecurity threats and best practices for protecting digital assets.
+Date: 2024-12-22
+Location: Shillman Hall 320
+Capacity: 25
+
+Timestamp: 1754949845459
+==================
+

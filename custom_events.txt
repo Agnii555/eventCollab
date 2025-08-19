@@ -1,0 +1,12 @@
+=== FILE OUTPUT ===
+Event: AI Seminar
+Details: Seminar Event ID: S001
+Title: AI Seminar
+Description: Latest trends in AI
+Date: 2025-08-13
+Location: Auditorium
+Capacity: 100
+
+Timestamp: 1754949844815
+==================
+
